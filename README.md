@@ -1,5 +1,5 @@
 # powerset
-calculate powerset using recurisve functions in python
+calculate powerset using recursive functions in python
 
 I translated the function definition from set syntax from Wikipedia and [Byjus website](https://byjus.com/maths/power-set/) into code so the code is not exactly intuitive or pretty.
 
