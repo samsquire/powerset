@@ -1,0 +1,2 @@
+# powerset
+powerset in python
